@@ -2,6 +2,7 @@
 * Create a PostgreSQL database called demo_concorde
 * Execute the SQL file ./database.sql
 * Modify the file ./application/config/database.php according to your credentials
+* Merise CDM: [./CDM.png](https://github.com/vmoulin78/demo-concorde-postgresql/blob/master/CDM.png)
 * Main files or folders about LightORM:
    * [./application/business/models/](https://github.com/vmoulin78/demo-concorde-postgresql/tree/master/application/business/models)
    * [./application/business/associations/](https://github.com/vmoulin78/demo-concorde-postgresql/tree/master/application/business/associations)
