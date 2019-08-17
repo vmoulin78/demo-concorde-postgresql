@@ -9,7 +9,7 @@ CREATE TABLE folder (
 
 CREATE TABLE blg_status (
     id serial PRIMARY KEY,
-    name varchar(255) NOT NULL,
+    name varchar(255) UNIQUE NOT NULL,
     color varchar(255) NOT NULL
 );
 
